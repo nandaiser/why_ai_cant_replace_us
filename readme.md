@@ -11,9 +11,9 @@ Minimal. Direct. Relatable.
 
 📂 Project Structure
 why_gpt_cant_replace_us/
- ├─ doom.txt       # contains the prophecy
- ├─ main.py        # reads doom.txt and delivers our fate
- └─ README.md      # you're reading it
+ ├─ doom.txt       
+ ├─ main.py        
+ └─ README.md      
 
 🛠️ How to Run
 git clone https://github.com/YOUR_USERNAME/why_gpt_cant_replace_us.git
