@@ -12,13 +12,12 @@ Minimal. Direct. Relatable.
 📂 Project Structure
 why_gpt_cant_replace_us/
  ├─ doom.txt       
- ├─ main.py        
+ ├─ main.c       
  └─ README.md      
 
 🛠️ How to Run
 git clone https://github.com/YOUR_USERNAME/why_gpt_cant_replace_us.git
 cd why_gpt_cant_replace_us
-python main.py
 
 💡 Inspiration
 
@@ -38,7 +37,6 @@ GPT can write code… but can GPT cope with the void?
 
 Add AI-generated motivational quotes to soften the doom
 
-Create a Flask API endpoint: /doom → returns JSON { "message": "we're doomed" }
 
 Dockerize doom 🐳
 
