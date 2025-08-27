@@ -46,5 +46,4 @@ Dockerize doom 🐳
 
 This README was partly written by GPT.
 So if AI really can replace us…
-at least it helped me roast myself first. 💀# why_ai_cant_replace_us
-# why_ai_cant_replace_us
+at least it helped me roast myself first.
